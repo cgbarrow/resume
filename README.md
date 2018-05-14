@@ -2,15 +2,15 @@
 
 ##Hello! I'm Christopher Barrow"
 
-..* I often wear caps ;-)
-..* Yup! Hand tattoo ¯\\_(ツ)_/¯
-..* I'm a dad
-..* A leader by example
-..* I'm a code monkey
-..* I'm a UX junkie
-..* I embrace disruption
-..* I love change
-..* I'm your guy!
+* I often wear caps ;-)
+* Yup! Hand tattoo ¯\\_(ツ)_/¯
+* I'm a dad
+* A leader by example
+* I'm a code monkey
+* I'm a UX junkie
+* I embrace disruption
+* I love change
+* I'm your guy!
 
 I have held many positions in my career, but at their core there has been a single constant: a passion to think differently.
 
