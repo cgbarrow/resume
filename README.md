@@ -22,8 +22,6 @@ Passion is what allows me to think differently regardless of my working environm
 
 <img src="http://www.chrisbarrow.me/images/qr.png" data-canonical-src="http://www.chrisbarrow.me/images/qr.png" width="160" height="160"/>
 
-or
-
-[chrisbarrow.me](https://www.chrisbarrow.me)
+or [chrisbarrow.me](https://www.chrisbarrow.me)
 
 Submit a pull request and make my CV better!
