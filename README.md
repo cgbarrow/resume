@@ -20,7 +20,7 @@ Passion is what allows me to think differently regardless of my working environm
 
 ##Review Me
 
-!(http://www.chrisbarrow.me/images/qr.png)
+! (http://www.chrisbarrow.me/images/qr.png)
 
 or
 
