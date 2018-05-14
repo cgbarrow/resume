@@ -1,6 +1,6 @@
 # Christopher Barrow's Resume
 
-##Hello! I'm Christopher Barrow"
+## Hello! I'm Christopher Barrow"
 
 * I often wear caps ;-)
 * Yup! Hand tattoo ¯\\_(ツ)_/¯
