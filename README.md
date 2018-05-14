@@ -1,9 +1,9 @@
 # Christopher Barrow's Resume
 
-## Hello! I'm Christopher Barrow"
+## Hello! I'm Christopher Barrow
 
 * I often wear caps ;-)
-* Yup! Hand tattoo ¯\\_(ツ)_/¯
+* Yup! I have hand tattoos ¯\\_(ツ)_/¯
 * I'm a dad
 * A leader by example
 * I'm a code monkey
