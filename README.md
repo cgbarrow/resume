@@ -18,9 +18,9 @@ It has been suggested in more than one tech circle that skill sets such as entre
 
 Passion is what allows me to think differently regardless of my working environment. Passion enables me to embrace change. Passion drives me to take risks, learn from my failures, and lead by example.
 
-##Review Me
+## Review Me
 
-! (http://www.chrisbarrow.me/images/qr.png)
+![chris barrow resume](http://www.chrisbarrow.me/images/qr.png)
 
 or
 
