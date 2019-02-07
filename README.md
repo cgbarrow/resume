@@ -20,8 +20,6 @@ Passion is what allows me to think differently regardless of my working environm
 
 ## Review Me
 
-<img src="http://www.chrisbarrow.me/images/qr.png" data-canonical-src="http://www.chrisbarrow.me/images/qr.png" width="120" height="120"/>
+<!--<img src="http://www.chrisbarrow.me/images/qr.png" data-canonical-src="http://www.chrisbarrow.me/images/qr.png" width="120" height="120"/>-->
 
-or [chrisbarrow.me](https://www.chrisbarrow.me)
-
-Submit a pull request and make my CV better!
+[chrisbarrow.me](https://www.chrisbarrow.me)
