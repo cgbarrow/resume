@@ -1,7 +1,6 @@
 // src/components/Main.tsx
 
 import * as React from 'react';
-import './Main.css';
 
 export interface Props {
   name: string;
