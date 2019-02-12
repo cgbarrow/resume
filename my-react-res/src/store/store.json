@@ -1,0 +1,44 @@
+{
+    "resume": {
+        "menu": [
+            {
+                "link": "home",
+                "text": "Home"
+            },
+            {
+                "link": "about",
+                "text": "who am I"
+            },
+            {
+                "link": "tibits",
+                "text": "tibits"
+            },
+            {
+                "link": "skills",
+                "text": "skills"
+            },
+            {
+                "link": "experience",
+                "text": "experience"
+            },
+            {
+                "link": "contact",
+                "text": "contact"
+            }
+        ],
+        "social": [
+            {
+                "link": "https://twitter.com/cgordonbarrow",
+                "css": "fa fa-twitter"
+            },
+            {
+                "link": "https://www.linkedin.com/in/christophergbarrow/",
+                "css": "fa fa-linkedin"
+            },
+            {
+                "link": "",
+                "css": "fa fa-github"
+            }
+        ]
+    }
+}
