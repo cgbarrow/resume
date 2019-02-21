@@ -36,9 +36,29 @@
                 "css": "fa fa-linkedin"
             },
             {
-                "link": "",
+                "link": "https://github.com/cgbarrow/",
                 "css": "fa fa-github"
+            },
+            {
+                "link": "mail:tochristopherbarrow@gmail.com",
+                "css": "fa fa-envelope"
             }
-        ]
+        ],
+        "bio": {
+               "name": "Christopher Barrow",
+               "title": "Polyglot Professional",
+               "address": {
+                   "nationality": "Proudly Canadian!",
+                   "city": "Niagara Falls",
+                   "province": "Ontario",
+                   "phonetext": "289.219.0793",
+                   "phonenumber": "+12892190793"
+               },
+               "tagline": "I have held many positions in my career, but at their core there has been a single constant: a passion to think differently.",
+               "par1": "It has been suggested in more than one tech circle that skill sets such as entrepreneurship, innovation and disruption can only be cultivated in start-ups; free from the bureaucratic processes of large traditional organizations. These are not skill sets. They are a mind set. They come from the soul. They are a result of one's passion to think outside of what is considered to be rationale or safe.",
+               "par2": "Passion is what allows me to think differently regardless of my working environment. Passion enables me to embrace change. Passion drives me to take risks, learn from my failures, and lead by example.",
+               "pitch": "PASSION INNOVATES AND INSPIRES"
+        }
     }
 }
+

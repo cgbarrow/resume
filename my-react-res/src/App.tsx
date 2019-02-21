@@ -7,9 +7,11 @@ import "reflect-metadata";
 import resumeJson from './store/store.json';
 import {Anchor} from './models/Models';
 import {Social} from './models/Models';
+import {Bio} from './models/Models'; 
 
 let menu = plainToClass(Anchor,resumeJson.resume.menu);
 let social = plainToClass(Social,resumeJson.resume.social);
+let bio = plainToClass(Bio,resumeJson.resume.bio);
 
 class App extends React.Component {
   public render() {
@@ -17,8 +19,8 @@ class App extends React.Component {
     return (
         <div>
           <Header anchorItems={menu} socialItems={social}/>
-          <Main />
-          <Footer />
+          <Main bio={bio} socialItems={social}/>
+          <Footer socialItems={social}/>
         </div>
     );
   }
