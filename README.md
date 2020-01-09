@@ -29,5 +29,9 @@ Passion is what allows me to think differently regardless of my working environm
 
 <img src="https://www.chrisbarrow.me/images/qr.png" data-canonical-src="https://www.chrisbarrow.me/images/qr.png" width="120" height="120"/>
 
+## Questions
+
+Any questions? Feel free to reach out to [Christopher Barrow](mailto:Christopher.Barrow@ontario.ca)
+
 ---
 
