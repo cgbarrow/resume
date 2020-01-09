@@ -6,6 +6,9 @@
 ██║ ╚═╝ ██║   ██║       ██║  ██║███████╗███████║╚██████╔╝██║ ╚═╝ ██║███████╗
 ╚═╝     ╚═╝   ╚═╝       ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
 ```    
+[![HTML5](https://img.shields.io/badge/HTML-5-informational.svg)](https://en.wikipedia.org/wiki/HTML5)
+[![Google Fonts](https://img.shields.io/badge/Google%20Fonts-API-informational.svg)](https://fonts.google.com/)
+[![jQuery](https://img.shields.io/badge/jQuery-3.3.1-informational.svg)](https://github.com/jquery/jquery)
 
 ## Hello! I'm Christopher Barrow
 
