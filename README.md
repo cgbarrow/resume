@@ -31,7 +31,7 @@ Passion is what allows me to think differently regardless of my working environm
 
 ## Questions
 
-Any questions? Feel free to [reach out](mailto:Christopher.Barrow@ontario.ca)
+Any questions? Feel free to [reach out](mailto:Christopher.Barrow@ontario.ca).
 
 ---
 
