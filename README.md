@@ -1,10 +1,13 @@
 ```
-███╗   ███╗██╗   ██╗    ██████╗ ███████╗███████╗██╗   ██╗███╗   ███╗███████╗
-████╗ ████║╚██╗ ██╔╝    ██╔══██╗██╔════╝██╔════╝██║   ██║████╗ ████║██╔════╝
-██╔████╔██║ ╚████╔╝     ██████╔╝█████╗  ███████╗██║   ██║██╔████╔██║█████╗  
-██║╚██╔╝██║  ╚██╔╝      ██╔══██╗██╔══╝  ╚════██║██║   ██║██║╚██╔╝██║██╔══╝  
-██║ ╚═╝ ██║   ██║       ██║  ██║███████╗███████║╚██████╔╝██║ ╚═╝ ██║███████╗
-╚═╝     ╚═╝   ╚═╝       ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
+
+ ██████╗██╗  ██╗██████╗ ██╗███████╗    ██████╗  █████╗ ██████╗ ██████╗  ██████╗ ██╗    ██╗
+██╔════╝██║  ██║██╔══██╗██║██╔════╝    ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██║    ██║
+██║     ███████║██████╔╝██║███████╗    ██████╔╝███████║██████╔╝██████╔╝██║   ██║██║ █╗ ██║
+██║     ██╔══██║██╔══██╗██║╚════██║    ██╔══██╗██╔══██║██╔══██╗██╔══██╗██║   ██║██║███╗██║
+╚██████╗██║  ██║██║  ██║██║███████║    ██████╔╝██║  ██║██║  ██║██║  ██║╚██████╔╝╚███╔███╔╝
+ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚══╝╚══╝ 
+                                                                                          
+
 ```    
 [![HTML5](https://img.shields.io/badge/HTML-5-informational.svg)](https://en.wikipedia.org/wiki/HTML5)
 [![Google Fonts](https://img.shields.io/badge/Google%20Fonts-API-informational.svg)](https://fonts.google.com/)
@@ -12,17 +15,11 @@
 [![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-%5E3.3.3-blue)](https://www.typescriptlang.org/)
 [![REACT](https://img.shields.io/badge/REACT-%5E16.8.1-blue)](https://reactjs.org/)
 
-## About Me
+# Resume
 
-* I often wear caps ;-)
-* Yup! I have hand tattoos ¯\\_(ツ)_/¯
-* I'm a dad
-* A leader by example
-* I'm a code monkey
-* I'm a UX junkie
-* I embrace disruption
-* I love change
-* I'm your guy!
+Hello! I'm Christopher Barrow. I am currently the Manager, Product Management & Design for the Digital Garage, Ministry of Transportation,Ontario Public Service. Digital Garage's mandate is to foster the practice of innovation and exploration of technology to drive the digital service transformation agenda in Ministry of Transportation and Ministry of Labour, Training and Skills Development.
+
+## About Me
 
 I have held many positions in my career, but at their core there has been a single constant: a passion to think differently.
 
