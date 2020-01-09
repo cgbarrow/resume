@@ -1,12 +1,15 @@
 // src/components/Main.tsx
 
 import * as React from 'react';
+import Position from '../components/Position';
+import {PositionInfo} from "../models/Models";
 import { Bio } from '../models/Models';
 import { Social } from '../models/Models';
 
 export interface Props {
   bio: Bio;
   socialItems: Social[];
+  positionItems: PositionInfo[];
 }
 
 class Main extends React.Component<Props, object> {
@@ -65,6 +68,37 @@ class Main extends React.Component<Props, object> {
             </div>
           </div>
         </section>
+
+        <section className="project-area section-padding black-bg" id="tibits">
+          <div className="container img-full">
+            
+            <div className="row">
+              <div className="col-xs-12">
+                <div className="page-title">
+                  <h3>tibits</h3>
+                  <h2>Highlights</h2>
+                </div>
+              </div>
+            </div>
+
+            <div>
+            {
+              this.props.positionItems.map(function (p, index) {
+                return (
+                  <Position key={index} projectItem={p}/>)
+              })
+            }
+            </div>
+
+          
+            <div className="row">
+              <div className="col-xs-12 text-center">
+                <a href="#" id="project_more" className="battn see-more">See more tibits</a>
+              </div>
+            </div>
+          </div>
+        </section>
+
       </div>
     );
   }

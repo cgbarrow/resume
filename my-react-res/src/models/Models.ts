@@ -1,5 +1,6 @@
 import {Type} from "class-transformer";
 
+
 export class Anchor {
     private _link: string = "";
     private _text: string = "";
@@ -142,5 +143,72 @@ export class Address {
     }
     set phonenumber(p: string) {
         this._phonenumber = p;
+    }
+}
+
+export class PositionInfo {
+    private _image: string = "";
+    private _alt: string = "";
+    private _title: string = "";
+    private _par1: string = "";
+    private _par2: string = "";
+    private _par3: string = "";
+    private _link: string = "";
+    private _ltext: string = "";
+
+    get image(): string {
+        return this._image;
+    }
+    set image(i: string) {
+        this._image = i;
+    }
+
+    get alt(): string {
+        return this._alt;
+    }
+    set alt(a: string) {
+        this._alt = a;
+    }
+
+    get title(): string {
+        return this._title;
+    }
+    set title(t: string) {
+        this._title = t;
+    }
+
+    get par1(): string {
+        return this._par1;
+    }
+    set par1(p: string) {
+        this._par1 = p;
+    }
+
+    get par2(): string {
+        return this._par2;
+    }
+    set par2(p: string) {
+        this._par2 = p;
+    }
+
+    get par3(): string {
+        return this._par3;
+    }
+    set par3(p: string) {
+        this._par3 = p;
+    }
+
+    get link(): string {
+        return this._link;
+    }
+    set link(l: string) {
+        this._link = l;
+    }
+
+    get ltext(): string {
+        return this._ltext;
+    }
+    set ltext(t: string) {
+        this._ltext = t;
     }
 }

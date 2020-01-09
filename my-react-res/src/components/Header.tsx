@@ -29,14 +29,13 @@ class Header extends React.Component<Props, object> {
                         </ul>
                     </nav>
                     <div className="social-menu">
-                        {
-                            this.props.socialItems.map(function (s,index) {
-                                return
-
-                                <a key={index} href="{s.link}" target="_blank">
-                                    <i key={index} className="{s.css}"></i>
-                                </a>
-                            })
+                    {
+                          this.props.socialItems.map(function (s, index) {
+                            return (
+                            <a key={index} href={s.link} target="_blank">
+                              <i key={index} className={s.css}></i>
+                            </a>)
+                          })
                         }
                     </div>
                 </div>
