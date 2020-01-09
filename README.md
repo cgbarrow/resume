@@ -12,9 +12,7 @@
 [![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-%5E3.3.3-blue)](https://www.typescriptlang.org/)
 [![REACT](https://img.shields.io/badge/REACT-%5E16.8.1-blue)](https://reactjs.org/)
 
-https://img.shields.io/badge/REACT-%5E16.8.1-blue
-
-## Hello! I'm Christopher Barrow
+## About Me
 
 * I often wear caps ;-)
 * Yup! I have hand tattoos ¯\\_(ツ)_/¯
