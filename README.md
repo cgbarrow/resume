@@ -31,10 +31,10 @@ Passion is what allows me to think differently regardless of my working environm
 
 ## Want to Connect?
 
-* [Mail](mailto:Christopher.Barrow@ontario.ca).
 * [LinkedIn](https://www.linkedin.com/in/christophergbarrow/)
 * [GitHub](https://github.com/cgbarrow)
 * [Twiiter](https://twitter.com/cgordonbarrow)
+* [Mail](mailto:Christopher.Barrow@ontario.ca)
 
 ---
 
