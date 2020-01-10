@@ -33,7 +33,7 @@ Passion is what allows me to think differently regardless of my working environm
 
 * [LinkedIn](https://www.linkedin.com/in/christophergbarrow/)
 * [GitHub](https://github.com/cgbarrow)
-* [Twiiter](https://twitter.com/cgordonbarrow)
+* [Twitter](https://twitter.com/cgordonbarrow)
 * [Mail](mailto:Christopher.Barrow@ontario.ca)
 
 ---
