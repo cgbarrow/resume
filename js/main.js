@@ -70,10 +70,10 @@ jQuery(document).on('ready', function ($) {
     /*jQuery Type JS
     =================*/
     $("#type").typed({
-        strings: ["Hello! I\'m Christopher Barrow", "I often wear caps ;-)", "Yup! Hand tattoo ¯\\_(ツ)_/¯", "I\'m a dad", "A leader by example", "I\'m a code monkey", "I\'m a UX junkie", "I embrace disruption","I love change","I\'m your guy!"],
+        strings: ["Hello! I\'m Christopher Barrow", "Manger, Product Management &amp; Design, Digital Garage","A dynamic leader by example", "I put teams and people first", "I embrace change by choice", "I\'m a lifelong code monkey and technology nut", "I\'m a certified UX junkie and advocate", ""],
         typeSpeed: 10,
         loop: true,
-        cursorChar: " ",
+        cursorChar: "_",
     });
     /* === Animation on Scroll === */
     var wow = new WOW({

@@ -591,7 +591,7 @@ textarea {
 }
 
 .skill-text h3 {
-    color: #d94343;
+    color: #2196f3;
     font-size: 20px;
     font-weight: 400;
     text-transform: uppercase;
@@ -607,7 +607,7 @@ textarea {
 .skill-area .skillbar .count > span {
     background-color: #ffffff;
     border-radius: 2px 2px 2px 0;
-    color: #d94343;
+    color: #2196f3;
     font-size: 12px;
     left: 100%;
     padding: 0 4px;
