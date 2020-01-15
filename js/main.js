@@ -71,14 +71,13 @@ jQuery(document).on('ready', function ($) {
     =================*/
     $("#type").typed({
         strings: [
-            "Hi! I\'m Christopher Barrow", 
-            "Manager, Product &amp; Design",
+            "Hi. I\'m Christopher Barrow", 
             "Dynamic leader by example", 
             "I put teams and people first", 
             "I embrace change by choice", 
-            "A lifelong code monkey", 
+            "A career code monkey", 
             "A certified UX junkie", 
-            "Ready to rock with the ODS!"],
+            "A learner for life"],
         typeSpeed: 10,
         loop: true,
         cursorChar: "_",
