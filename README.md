@@ -34,7 +34,7 @@ Passion is what allows me to think creatively regardless of my working environme
 
 <img src="https://www.chrisbarrow.me/images/qr.png" data-canonical-src="https://www.chrisbarrow.me/images/qr.png" width="120" height="120"/>
 
-## Want to Connect?
+## Connect
 
 * [LinkedIn](https://www.linkedin.com/in/christophergbarrow/)
 * [GitHub](https://github.com/cgbarrow)
