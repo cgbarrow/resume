@@ -77,7 +77,7 @@ jQuery(document).on('ready', function ($) {
             "I embrace change by choice", 
             "A career code monkey", 
             "A certified UX junkie", 
-            "A learner for life"],
+            "A life long learner"],
         typeSpeed: 10,
         loop: true,
         cursorChar: "_",
