@@ -19,7 +19,7 @@ Hello! I'm Christopher Barrow. I am currently in the role of Manager, Product Ma
 
 ## About Me
  
-* A Dynamic leader by example 
+* A dynamic leader by example 
 * I put people and teams first
 * I embrace change by choice
 * A career code monkey
