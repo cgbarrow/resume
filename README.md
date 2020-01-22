@@ -19,11 +19,9 @@ Hello! I'm Christopher Barrow. I am currently in the role of Manager, Product Ma
 
 ## About Me
 
-I have held many positions in my career, but at their core there has been a single constant: a passion to think differently.
+I have been told on more than one occasion in my career skill sets such as entrepreneurship, innovation, disruption, and servant leadership can only be cultivated in start-ups; free from the bureaucratic processes of large traditional organizations. These are not skill sets. They are a mind set. They come from the soul. They are a result of one's passion and desire to invert traditional thinking on its head to get things done.
 
-It has been suggested in more than one tech circle that skill sets such as entrepreneurship, innovation and disruption can only be cultivated in start-ups; free from the bureaucratic processes of large traditional organizations. These are not skill sets. They are a mind set. They come from the soul. They are a result of one's passion to think outside of what is considered to be rationale or safe.
-
-Passion is what allows me to think differently regardless of my working environment. Passion enables me to embrace change. Passion drives me to take risks, learn from my failures, and lead by example.
+Passion is what allows me to think creatively regardless of my working environment. Passion enables me to embrace change (one of the very few constants in life) by choice. Passion pushes me to pursue lifelong learning to always be improving my IT and UX skills. Passion drives me to take risks, reap the rewards, learn from my failures, and lead by putting people and teams first.
 
 ## View My Resume
 
