@@ -73,7 +73,7 @@ jQuery(document).on('ready', function ($) {
         strings: [
             "Hi. I\'m Christopher Barrow", 
             "Dynamic leader by example", 
-            "I put teams and people first", 
+            "I put people and teams first", 
             "I embrace change by choice", 
             "A career code monkey", 
             "A certified UX junkie", 

@@ -18,6 +18,13 @@
 Hello! I'm Christopher Barrow. I am currently in the role of Manager, Product Management & Design for the Digital Garage, Ministry of Transportation, Ontario Public Service. Digital Garage's mandate is to foster the practice of innovation and exploration of technology to drive the digital service transformation agenda in Ministry of Transportation and Ministry of Labour, Training and Skills Development.
 
 ## About Me
+ 
+* A Dynamic leader by example 
+* I put people and teams first
+* I embrace change by choice
+* A career code monkey
+* A certified UX junkie 
+* A life long learner
 
 I have been told on more than one occasion in my career skill sets such as entrepreneurship, innovation, disruption, and servant leadership can only be cultivated in start-ups; free from the bureaucratic processes of large traditional organizations. These are not skill sets. They are a mind set. They come from the soul. They are a result of one's passion and desire to invert traditional thinking on its head to get things done.
 
