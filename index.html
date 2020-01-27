@@ -38,6 +38,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/color-scheme.css">
+    <link rel="manifest" href="/manifest.json">
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
 </head>
 
@@ -102,17 +103,17 @@
                 </ul>
             </nav>
             <div class="social-menu">
-                <a href="https://twitter.com/cgordonbarrow" target="_blank">
+                <a href="https://twitter.com/cgordonbarrow" target="_blank" aria-label="Message me on Twitter">
                     <i class="fa fa-twitter"></i>
                 </a>
-                <a href="https://www.linkedin.com/in/christophergbarrow/" target="_blank">
+                <a href="https://www.linkedin.com/in/christophergbarrow/" target="_blank" aria-label="Connect with me on LinkedIn">
                     <i class="fa fa-linkedin"></i>
                 </a>
-                <a href="https://github.com/cgbarrow/resume" target="_blank">
+                <a href="https://github.com/cgbarrow/resume" target="_blank" aria-label="Resume on GitHub">
                     <i class="fa fa-github"></i>
                 </a>
 
-                <a href="https://github.com/cgbarrow/resume" target="_blank">
+                <a href="https://github.com/cgbarrow/resume" target="_blank" aria-label="Email Me">
                     <i class="fa fa-envelope"></i>
                 </a>
             </div>
@@ -158,18 +159,21 @@
                                 <p>
                                     <strong>(289) 219 0793</strong></p>
                                 <div class="share-menu">
-                                    <a href="https://twitter.com/cgordonbarrow" target="_blank">
+                                    <a href="https://twitter.com/cgordonbarrow" target="_blank" aria-label="Message me on Twitter">
                                         <i class="fa fa-twitter"></i>
                                     </a>
-                                    <a href="https://www.linkedin.com/in/christophergbarrow/" target="_blank">
+                                    <a href="https://www.linkedin.com/in/christophergbarrow/" target="_blank" aria-label="Connect with me on LinkedIn">
                                         <i class="fa fa-linkedin"></i>
                                     </a>
-                                    <a href="https://github.com/cgbarrow/resume" target="_blank">
+                                    <a href="https://github.com/cgbarrow/resume" target="_blank" aria-label="Resume on GitHub">
                                         <i class="fa fa-github"></i>
                                     </a>
-                                    <a href="mailto:christopherbarrow@gmail.com">
+                    
+                                    <a href="https://github.com/cgbarrow/resume" target="_blank" aria-label="Email Me">
                                         <i class="fa fa-envelope"></i>
                                     </a>
+
+
                                 </div>
                             </div>
                         </div>
@@ -1062,16 +1066,17 @@
                     <div class="contact-info">
                         <a href="tel:289-219-0793"><h3>289 219 0793</h3></a>
                         <div class="social-menu">
-                            <a href="https://twitter.com/cgordonbarrow" target="_blank">
+                            <a href="https://twitter.com/cgordonbarrow" target="_blank" aria-label="Message me on Twitter">
                                 <i class="fa fa-twitter"></i>
                             </a>
-                            <a href="https://www.linkedin.com/in/christophergbarrow/" target="_blank">
+                            <a href="https://www.linkedin.com/in/christophergbarrow/" target="_blank" aria-label="Connect with me on LinkedIn">
                                 <i class="fa fa-linkedin"></i>
                             </a>
-                            <a href="https://github.com/cgbarrow/resume" target="_blank">
+                            <a href="https://github.com/cgbarrow/resume" target="_blank" aria-label="Resume on GitHub">
                                 <i class="fa fa-github"></i>
                             </a>
-                            <a href="mailto:christopherbarrow@gmail.com">
+            
+                            <a href="https://github.com/cgbarrow/resume" target="_blank" aria-label="Email Me">
                                 <i class="fa fa-envelope"></i>
                             </a>
                         </div>
@@ -1085,7 +1090,7 @@
                     <div class="col-xs-12 text-center">
                         <p>Code on
                             <a href="https://github.com/cgbarrow/resume" target="_blank">GitHub</a>. <br/>Version: #{BuildNumber}# | CI by Azure DevOps</p>
-                        <p>Copyright &copy; <script type="text/javascript">document.write(new Date().getFullYear());</script> Christopher Barrow.</p>
+                        <p id="year"></p>
                         
                     </div>
                 </div>
@@ -1102,6 +1107,18 @@
     <script src="js/contact-form.js"></script>
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
+
+    <script>
+        if (!navigator.serviceWorker.controller) {
+            navigator.serviceWorker.register("/sw.js").then(function(reg) {
+                console.log("Service worker has been registered for scope: " + reg.scope);
+            });
+        }
+
+        $(function() {
+            $("#year").html("Copyright &copy; " + new Date().getFullYear() + " Christopher Barrow.");
+        });
+       </script>
 </body>
 
 </html>
