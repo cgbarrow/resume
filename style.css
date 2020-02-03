@@ -73,7 +73,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #2196f3;
+  color: #0C6FBD;
 }
 
 a:focus {
@@ -125,7 +125,7 @@ a:focus {
   background-color: #ffffff;
   border: 1px solid #ffffff;
   border-radius: 100px;
-  color: #2196f3;
+  color: #0C6FBD;
   display: inline-block;
   font-size: 16px;
   font-weight: 700;
@@ -138,8 +138,8 @@ a:focus {
 }
 
 .battn:hover {
-  background: #2196f3 none repeat scroll 0 0;
-  border: 1px solid #2196f3;
+  background: #0C6FBD none repeat scroll 0 0;
+  border: 1px solid #0C6FBD;
   box-shadow: 0 10px 10px -10px #b7b7b7;
   color: #fff;
   -webkit-transform: translate(0px, -5px);
@@ -179,7 +179,7 @@ textarea:focus {
 }
 
 .page-title h2 {
-  color: #2196f3;
+  color: #0C6FBD;
   font-size: 70px;
   padding-bottom: 20px;
   position: relative;
@@ -207,7 +207,7 @@ textarea:focus {
 }
 
 .red-bg {
-  background-color: #2196f3;
+  background-color: #0C6FBD;
   color: #ffffff;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -269,7 +269,7 @@ textarea:focus {
 
 .mainmenu ul.nav.navbar-nav li a {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  color: #2196f3;
+  color: #0C6FBD;
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 2px;
@@ -289,9 +289,9 @@ textarea:focus {
 }
 
 .social-menu a {
-  border: 1px solid #2196f3;
+  border: 1px solid #0C6FBD;
   border-radius: 50%;
-  color: #2196f3;
+  color: #0C6FBD;
   display: inline-block;
   height: 30px;
   line-height: 2;
@@ -301,7 +301,7 @@ textarea:focus {
 }
 
 .social-menu a:hover {
-  background-color: #2196f3;
+  background-color: #0C6FBD;
   color: #ffffff;
 }
 
@@ -314,7 +314,7 @@ textarea:focus {
   display: flex;
   height: 100%;
   width: 100%;
-  background-color: #2196f3;
+  background-color: #0C6FBD;
   color: #ffffff;
   font-size: 24px;
   line-height: 1.3;
@@ -393,7 +393,7 @@ textarea:focus {
 }
 
 .about-photo:hover .about-desc h2 {
-  color: #2196f3;
+  color: #0C6FBD;
 }
 
 .about-desc .title {
@@ -402,7 +402,7 @@ textarea:focus {
 }
 
 .about-photo:hover .about-desc .title {
-  color: #2196f3;
+  color: #0C6FBD;
 }
 
 .about-text h3 {
@@ -421,7 +421,7 @@ textarea:focus {
 }
 
 .about-text a.check {
-  color: #2196f3;
+  color: #0C6FBD;
   display: inline-block;
   font-size: 20px;
   font-weight: 700;
@@ -513,7 +513,7 @@ textarea:focus {
 }
 
 .project-details a {
-  color: #2196f3;
+  color: #0C6FBD;
   display: inline-block;
   font-size: 22px;
   font-weight: 700;
@@ -529,7 +529,7 @@ textarea:focus {
   bottom: 0;
   width: 50px;
   height: 1px;
-  background-color: #2196f3;
+  background-color: #0C6FBD;
 }
 
 .project-details.project-details-left a:after {
@@ -546,9 +546,9 @@ textarea:focus {
 =======================*/
 
 .prosess-icon {
-  border: 1px solid #2196f3;
+  border: 1px solid #0C6FBD;
   border-radius: 50%;
-  color: #2196f3;
+  color: #0C6FBD;
   height: 40px;
   line-height: 2.8;
   margin: auto auto 20px;
@@ -579,11 +579,11 @@ textarea:focus {
 }
 
 .single-process.active h3 {
-  color: #2196f3;
+  color: #0C6FBD;
 }
 
 .single-process.active .prosess-icon {
-  background-color: #2196f3;
+  background-color: #0C6FBD;
   color: #ffffff;
 }
 
@@ -614,7 +614,7 @@ textarea:focus {
 }
 
 .process-center-image img {
-  border: 3px solid #2196f3;
+  border: 3px solid #0C6FBD;
   border-radius: 50%;
 }
 
@@ -668,7 +668,7 @@ textarea:focus {
 
 .profile-area ul.nav-pills li.active a .single-profile .profile-icon,
 .profile-area ul.nav-pills li.active a .single-profile h3 {
-  color: #2196f3;
+  color: #0C6FBD;
 }
 
 .profile-area .nav-pills {
@@ -698,7 +698,7 @@ textarea:focus {
 }
 
 .contact-info h3 {
-  color: #2196f3;
+  color: #ffffff;
   font-size: 28px;
   font-weight: 400;
 }
@@ -714,7 +714,7 @@ textarea:focus {
 }
 
 .copyright-area a {
-  color: #2196f3;
+  color: #ffffff;
 }
 
 .single-award {
@@ -727,7 +727,7 @@ textarea:focus {
 }
 
 .single-award.red-bg {
-  background-color: #2196f3;
+  background-color: #0C6FBD;
 }
 
 .single-award h3 {
@@ -751,15 +751,15 @@ textarea:focus {
 }
 
 .battn.red-battn {
-  background-color: #2196f3;
+  background-color: #0C6FBD;
   color: #ffffff;
-  border: 1px solid #2196f3;
+  border: 1px solid #0C6FBD;
 }
 
 .battn.red-battn:hover {
   background-color: #ffffff;
-  border-color: #2196f3;
-  color: #2196f3;
+  border-color: #0C6FBD;
+  color: #0C6FBD;
 }
 
 .exp-battn {
@@ -768,7 +768,7 @@ textarea:focus {
 
 .exp-battn a {
   border: 1px solid;
-  color: #2196f3;
+  color: #0C6FBD;
   display: block;
   float: left;
   font-size: 18px;
@@ -779,9 +779,9 @@ textarea:focus {
 }
 
 .exp-battn .active a {
-  background-color: #2196f3;
+  background-color: #0C6FBD;
   color: #ffffff;
-  border: 1px solid #2196f3;
+  border: 1px solid #0C6FBD;
 }
 
 .exp-battn li {
@@ -808,7 +808,7 @@ textarea:focus {
 }
 
 .single-exp::before {
-  background-color: #2196f3;
+  background-color: #0C6FBD;
   content: "";
   height: 100%;
   left: 20px;
@@ -822,8 +822,8 @@ textarea:focus {
 }
 
 .single-exp .exp-no {
-  border: 1px solid #2196f3;
-  color: #2196f3;
+  border: 1px solid #0C6FBD;
+  color: #0C6FBD;
   height: 40px;
   left: 0;
   line-height: 2.6;
@@ -838,7 +838,7 @@ textarea:focus {
 }
 
 .single-exp:hover .exp-no {
-  background-color: #2196f3;
+  background-color: #0C6FBD;
   color: #ffffff;
 }
 
@@ -851,7 +851,7 @@ textarea:focus {
 }
 
 .exp-details h3 {
-  color: #2196f3;
+  color: #0C6FBD;
   font-size: 20px;
   font-weight: 400;
   text-transform: uppercase;
@@ -871,7 +871,7 @@ textarea:focus {
 }
 
 .home-single-blog .home-blog-image::after {
-  background-color: #2196f3;
+  background-color: #0C6FBD;
   content: "";
   height: 100%;
   left: 0;
@@ -895,16 +895,16 @@ textarea:focus {
 }
 
 .home-single-blog h3:hover {
-  color: #2196f3;
+  color: #0C6FBD;
 }
 
 .date {
-  color: #2196f3;
+  color: #0C6FBD;
   font-weight: 700;
 }
 
 .home-single-blog a.read-more {
-  color: #2196f3;
+  color: #0C6FBD;
   font-size: 12px;
   font-weight: 700;
   text-transform: uppercase;
@@ -943,7 +943,7 @@ textarea:focus {
 }
 
 .client-content h3 {
-  color: #2196f3;
+  color: #0C6FBD;
   font-size: 18px;
   font-weight: 400;
   margin-bottom: 5px;
@@ -988,7 +988,7 @@ textarea:focus {
 }
 
 .client-area .owl-dot.active {
-  background-color: #2196f3;
+  background-color: #0C6FBD;
 }
 
 /*=========================
@@ -996,7 +996,7 @@ Cross icon
 ==========================*/
 
 .menu-icon {
-  background-color: #2196f3;
+  background-color: #0C6FBD;
   top: 20px;
   left: 20px;
   padding: 10px;
@@ -1079,7 +1079,7 @@ Cross icon
 }
 
 #scrollUp:hover {
-  background-color: #2196f3;
+  background-color: #0C6FBD;
 }
 
 /*====================
@@ -1110,7 +1110,7 @@ Single-Blog
 }
 
 .blog-image::after {
-  background-color: #2196f3;
+  background-color: #0C6FBD;
   content: "";
   height: 100%;
   left: 0;
@@ -1121,7 +1121,7 @@ Single-Blog
 }
 
 .blog-title h4 {
-  color: #2196f3;
+  color: #0C6FBD;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   text-transform: uppercase;
@@ -1130,7 +1130,7 @@ Single-Blog
 .blog-title h2 {
   text-transform: uppercase;
   margin-bottom: 40px;
-  color: #2196f3;
+  color: #0C6FBD;
 }
 
 .blog-content {
@@ -1150,14 +1150,14 @@ Single-Blog
 }
 
 .comment-heading h2 {
-  color: #2196f3;
+  color: #0C6FBD;
   display: inline-block;
   font-size: 26px;
   text-transform: uppercase;
 }
 
 .comment-heading {
-  border-bottom: 1px solid #2196f3;
+  border-bottom: 1px solid #0C6FBD;
   margin-bottom: 20px;
 }
 
@@ -1174,7 +1174,7 @@ Single-Blog
 }
 
 .blog-comment-title h3 {
-  color: #2196f3;
+  color: #0C6FBD;
   font-size: 18px;
   font-weight: 400;
   margin-bottom: 5px;
@@ -1198,9 +1198,9 @@ Single-Blog
 .comment-form input,
 .comment-form textarea {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  border: 1px solid #2196f3;
+  border: 1px solid #0C6FBD;
   margin-bottom: 15px;
-  color: #2196f3;
+  color: #0C6FBD;
   padding: 10px;
   width: 100%;
 }
@@ -1211,9 +1211,9 @@ Single-Blog
 
 .comment-form button {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  border: 1px solid #2196f3;
+  border: 1px solid #0C6FBD;
   border-radius: 2px;
-  color: #2196f3;
+  color: #0C6FBD;
   margin: 20px 0;
   padding: 10px 50px;
   text-transform: uppercase;
@@ -1223,7 +1223,7 @@ Single-Blog
 
 .comment-form button:hover,
 .comment-area .reply:hover {
-  background-color: #2196f3;
+  background-color: #0C6FBD;
   color: #ffffff;
 }
 
@@ -1250,7 +1250,7 @@ Single-Blog
 }
 
 .share-menu a {
-  color: #2196f3;
+  color: #0C6FBD;
   display: inline-block;
   height: 30px;
   line-height: 2;
@@ -1268,9 +1268,9 @@ Single-Blog
 
 .comment-area .reply {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  border: 1px solid #2196f3;
+  border: 1px solid #0C6FBD;
   border-radius: 2px;
-  color: #2196f3;
+  color: #0C6FBD;
   padding: 2px 10px;
   -webkit-transition: 0.3s;
   transition: 0.3s;
