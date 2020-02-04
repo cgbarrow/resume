@@ -11,6 +11,7 @@
 [![Google Fonts](https://img.shields.io/badge/Google%20Fonts-API-informational.svg)](https://fonts.google.com/)
 [![jQuery](https://img.shields.io/badge/jQuery-3.3.1-informational.svg)](https://github.com/jquery/jquery)
 [![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-%5E3.3.3-blue)](https://www.typescriptlang.org/)
+[![PWA](https://img.shields.io/badge/PWA-latest-blue)](https://developers.google.com/web/progressive-web-apps)
 [![REACT](https://img.shields.io/badge/REACT-%5E16.8.1-blue)](https://reactjs.org/)
 
 # Resume
