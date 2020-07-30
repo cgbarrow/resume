@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: chrisbarrow.me
+Token: bb58b4e98f85640c56c3dceabd8ddffc71e1953aa06f20a639e66b7fdd31f724
