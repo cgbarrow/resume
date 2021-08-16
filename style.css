@@ -73,7 +73,7 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #0C6FBD;
+  color: #0c6fbd;
 }
 
 a:focus {
@@ -125,7 +125,7 @@ a:focus {
   background-color: #ffffff;
   border: 1px solid #ffffff;
   border-radius: 100px;
-  color: #0C6FBD;
+  color: #0c6fbd;
   display: inline-block;
   font-size: 16px;
   font-weight: 700;
@@ -138,8 +138,8 @@ a:focus {
 }
 
 .battn:hover {
-  background: #0C6FBD none repeat scroll 0 0;
-  border: 1px solid #0C6FBD;
+  background: #0c6fbd none repeat scroll 0 0;
+  border: 1px solid #0c6fbd;
   box-shadow: 0 10px 10px -10px #b7b7b7;
   color: #fff;
   -webkit-transform: translate(0px, -5px);
@@ -179,7 +179,7 @@ textarea:focus {
 }
 
 .page-title h2 {
-  color: #0C6FBD;
+  color: #0c6fbd;
   font-size: 70px;
   padding-bottom: 20px;
   position: relative;
@@ -207,7 +207,7 @@ textarea:focus {
 }
 
 .red-bg {
-  background-color: #0C6FBD;
+  background-color: #0c6fbd;
   color: #ffffff;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -268,8 +268,8 @@ textarea:focus {
 }
 
 .mainmenu ul.nav.navbar-nav li a {
-  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  color: #0C6FBD;
+  background: #484848;
+  color: #ffffff;
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 2px;
@@ -289,9 +289,9 @@ textarea:focus {
 }
 
 .social-menu a {
-  border: 1px solid #0C6FBD;
+  border: 1px solid #ffffff;
   border-radius: 50%;
-  color: #0C6FBD;
+  color: #ffffff;
   display: inline-block;
   height: 30px;
   line-height: 2;
@@ -301,7 +301,7 @@ textarea:focus {
 }
 
 .social-menu a:hover {
-  background-color: #0C6FBD;
+  background-color: #0c6fbd;
   color: #ffffff;
 }
 
@@ -314,15 +314,13 @@ textarea:focus {
   display: flex;
   height: 100%;
   width: 100%;
-  background-color: #0C6FBD;
+  background-color: #0c6fbd;
   color: #ffffff;
   font-size: 24px;
   line-height: 1.3;
 }
 
 .header-bg {
-  background: rgba(0, 0, 0, 0) url("images/header-man.png") no-repeat scroll
-    right 30% bottom / auto 100%;
   height: 100%;
   left: 0;
   position: absolute;
@@ -393,7 +391,7 @@ textarea:focus {
 }
 
 .about-photo:hover .about-desc h2 {
-  color: #0C6FBD;
+  color: #0c6fbd;
 }
 
 .about-desc .title {
@@ -402,7 +400,7 @@ textarea:focus {
 }
 
 .about-photo:hover .about-desc .title {
-  color: #0C6FBD;
+  color: #0c6fbd;
 }
 
 .about-text h3 {
@@ -417,11 +415,11 @@ textarea:focus {
 }
 
 .about-text {
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .about-text a.check {
-  color: #0C6FBD;
+  color: #71bef9;
   display: inline-block;
   font-size: 20px;
   font-weight: 700;
@@ -512,8 +510,12 @@ textarea:focus {
   text-transform: uppercase;
 }
 
+.project-details p {
+  font-size: 16px;
+}
+
 .project-details a {
-  color: #0C6FBD;
+  color: #0c6fbd;
   display: inline-block;
   font-size: 22px;
   font-weight: 700;
@@ -529,7 +531,7 @@ textarea:focus {
   bottom: 0;
   width: 50px;
   height: 1px;
-  background-color: #0C6FBD;
+  background-color: #0c6fbd;
 }
 
 .project-details.project-details-left a:after {
@@ -546,9 +548,9 @@ textarea:focus {
 =======================*/
 
 .prosess-icon {
-  border: 1px solid #0C6FBD;
+  border: 1px solid #0c6fbd;
   border-radius: 50%;
-  color: #0C6FBD;
+  color: #0c6fbd;
   height: 40px;
   line-height: 2.8;
   margin: auto auto 20px;
@@ -579,11 +581,11 @@ textarea:focus {
 }
 
 .single-process.active h3 {
-  color: #0C6FBD;
+  color: #0c6fbd;
 }
 
 .single-process.active .prosess-icon {
-  background-color: #0C6FBD;
+  background-color: #0c6fbd;
   color: #ffffff;
 }
 
@@ -614,7 +616,7 @@ textarea:focus {
 }
 
 .process-center-image img {
-  border: 3px solid #0C6FBD;
+  border: 3px solid #0c6fbd;
   border-radius: 50%;
 }
 
@@ -668,7 +670,7 @@ textarea:focus {
 
 .profile-area ul.nav-pills li.active a .single-profile .profile-icon,
 .profile-area ul.nav-pills li.active a .single-profile h3 {
-  color: #0C6FBD;
+  color: #0c6fbd;
 }
 
 .profile-area .nav-pills {
@@ -727,7 +729,7 @@ textarea:focus {
 }
 
 .single-award.red-bg {
-  background-color: #0C6FBD;
+  background-color: #0c6fbd;
 }
 
 .single-award h3 {
@@ -751,15 +753,15 @@ textarea:focus {
 }
 
 .battn.red-battn {
-  background-color: #0C6FBD;
+  background-color: #0c6fbd;
   color: #ffffff;
-  border: 1px solid #0C6FBD;
+  border: 1px solid #0c6fbd;
 }
 
 .battn.red-battn:hover {
   background-color: #ffffff;
-  border-color: #0C6FBD;
-  color: #0C6FBD;
+  border-color: #0c6fbd;
+  color: #0c6fbd;
 }
 
 .exp-battn {
@@ -768,7 +770,7 @@ textarea:focus {
 
 .exp-battn a {
   border: 1px solid;
-  color: #0C6FBD;
+  color: #0c6fbd;
   display: block;
   float: left;
   font-size: 18px;
@@ -779,9 +781,9 @@ textarea:focus {
 }
 
 .exp-battn .active a {
-  background-color: #0C6FBD;
+  background-color: #0c6fbd;
   color: #ffffff;
-  border: 1px solid #0C6FBD;
+  border: 1px solid #0c6fbd;
 }
 
 .exp-battn li {
@@ -808,7 +810,7 @@ textarea:focus {
 }
 
 .single-exp::before {
-  background-color: #0C6FBD;
+  background-color: #0c6fbd;
   content: "";
   height: 100%;
   left: 20px;
@@ -822,8 +824,8 @@ textarea:focus {
 }
 
 .single-exp .exp-no {
-  border: 1px solid #0C6FBD;
-  color: #0C6FBD;
+  border: 1px solid #0c6fbd;
+  color: #0c6fbd;
   height: 40px;
   left: 0;
   line-height: 2.6;
@@ -838,7 +840,7 @@ textarea:focus {
 }
 
 .single-exp:hover .exp-no {
-  background-color: #0C6FBD;
+  background-color: #0c6fbd;
   color: #ffffff;
 }
 
@@ -851,7 +853,7 @@ textarea:focus {
 }
 
 .exp-details h3 {
-  color: #0C6FBD;
+  color: #0c6fbd;
   font-size: 20px;
   font-weight: 400;
   text-transform: uppercase;
@@ -871,7 +873,7 @@ textarea:focus {
 }
 
 .home-single-blog .home-blog-image::after {
-  background-color: #0C6FBD;
+  background-color: #0c6fbd;
   content: "";
   height: 100%;
   left: 0;
@@ -895,16 +897,16 @@ textarea:focus {
 }
 
 .home-single-blog h3:hover {
-  color: #0C6FBD;
+  color: #0c6fbd;
 }
 
 .date {
-  color: #0C6FBD;
+  color: #0c6fbd;
   font-weight: 700;
 }
 
 .home-single-blog a.read-more {
-  color: #0C6FBD;
+  color: #ffffff;
   font-size: 12px;
   font-weight: 700;
   text-transform: uppercase;
@@ -912,6 +914,7 @@ textarea:focus {
 
 .home-single-blog a.read-more:hover {
   color: #ffffff;
+  text-decoration: underline;
 }
 
 .blog-middle .home-blog-image {
@@ -943,7 +946,7 @@ textarea:focus {
 }
 
 .client-content h3 {
-  color: #0C6FBD;
+  color: #0c6fbd;
   font-size: 18px;
   font-weight: 400;
   margin-bottom: 5px;
@@ -988,7 +991,7 @@ textarea:focus {
 }
 
 .client-area .owl-dot.active {
-  background-color: #0C6FBD;
+  background-color: #0c6fbd;
 }
 
 /*=========================
@@ -996,7 +999,7 @@ Cross icon
 ==========================*/
 
 .menu-icon {
-  background-color: #0C6FBD;
+  background-color: #0c6fbd;
   top: 20px;
   left: 20px;
   padding: 10px;
@@ -1079,7 +1082,7 @@ Cross icon
 }
 
 #scrollUp:hover {
-  background-color: #0C6FBD;
+  background-color: #0c6fbd;
 }
 
 /*====================
@@ -1110,7 +1113,7 @@ Single-Blog
 }
 
 .blog-image::after {
-  background-color: #0C6FBD;
+  background-color: #0c6fbd;
   content: "";
   height: 100%;
   left: 0;
@@ -1121,7 +1124,7 @@ Single-Blog
 }
 
 .blog-title h4 {
-  color: #0C6FBD;
+  color: #0c6fbd;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   text-transform: uppercase;
@@ -1130,7 +1133,7 @@ Single-Blog
 .blog-title h2 {
   text-transform: uppercase;
   margin-bottom: 40px;
-  color: #0C6FBD;
+  color: #0c6fbd;
 }
 
 .blog-content {
@@ -1150,14 +1153,14 @@ Single-Blog
 }
 
 .comment-heading h2 {
-  color: #0C6FBD;
+  color: #0c6fbd;
   display: inline-block;
   font-size: 26px;
   text-transform: uppercase;
 }
 
 .comment-heading {
-  border-bottom: 1px solid #0C6FBD;
+  border-bottom: 1px solid #0c6fbd;
   margin-bottom: 20px;
 }
 
@@ -1174,7 +1177,7 @@ Single-Blog
 }
 
 .blog-comment-title h3 {
-  color: #0C6FBD;
+  color: #0c6fbd;
   font-size: 18px;
   font-weight: 400;
   margin-bottom: 5px;
@@ -1198,9 +1201,9 @@ Single-Blog
 .comment-form input,
 .comment-form textarea {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  border: 1px solid #0C6FBD;
+  border: 1px solid #0c6fbd;
   margin-bottom: 15px;
-  color: #0C6FBD;
+  color: #0c6fbd;
   padding: 10px;
   width: 100%;
 }
@@ -1211,9 +1214,9 @@ Single-Blog
 
 .comment-form button {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  border: 1px solid #0C6FBD;
+  border: 1px solid #0c6fbd;
   border-radius: 2px;
-  color: #0C6FBD;
+  color: #0c6fbd;
   margin: 20px 0;
   padding: 10px 50px;
   text-transform: uppercase;
@@ -1223,7 +1226,7 @@ Single-Blog
 
 .comment-form button:hover,
 .comment-area .reply:hover {
-  background-color: #0C6FBD;
+  background-color: #0c6fbd;
   color: #ffffff;
 }
 
@@ -1250,7 +1253,7 @@ Single-Blog
 }
 
 .share-menu a {
-  color: #0C6FBD;
+  color: #0c6fbd;
   display: inline-block;
   height: 30px;
   line-height: 2;
@@ -1268,9 +1271,9 @@ Single-Blog
 
 .comment-area .reply {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  border: 1px solid #0C6FBD;
+  border: 1px solid #0c6fbd;
   border-radius: 2px;
-  color: #0C6FBD;
+  color: #0c6fbd;
   padding: 2px 10px;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -1278,10 +1281,8 @@ Single-Blog
 
 /* Cursor */
 .typed-cursor {
-  
 }
 
 /* If fade out option is set */
 .typed-fade-out {
 }
-
