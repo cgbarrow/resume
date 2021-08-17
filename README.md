@@ -23,11 +23,12 @@ Hello! I'm Christopher Barrow. I am currently in the role of Manager, Product Ma
 - I embrace change by choice
 - A career code monkey
 - A certified UX junkie
+- A relentless product mindset
 - A life long learner
 
 I have been told on more than one occasion in my career skill sets such as entrepreneurship, innovation, disruption, and servant leadership can only be cultivated in start-ups; free from the bureaucratic processes of large traditional organizations. These are not skill sets. They are a mind set. They come from the soul. They are a result of one's passion and desire to invert traditional thinking on its head to get things done.
 
-Passion is what allows me to think creatively regardless of my working environment. Passion enables me to embrace change (one of the very few constants in life) by choice. Passion pushes me to pursue lifelong learning to always be improving my IT and UX skills. Passion drives me to take risks, reap the rewards, learn from my failures, and lead by putting people and teams first.
+Passion is what allows me to think creatively regardless of my working environment. Passion enables me to embrace change (one of the very few constants in life) by choice. Passion pushes me to pursue lifelong learning to always be improving my IT, UX, and product management skills. Passion drives me to take risks, reap the rewards, learn from my failures, and lead by putting people and teams first.
 
 ## View My Resume
 
