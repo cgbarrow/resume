@@ -230,6 +230,29 @@
                 <div class="col-xs-12 col-md-7">
                     <div class="single-project">
                         <div class="project-photo">
+                            <img src="images/rpdu.png" alt="Rapid Prototype Design Unit Logo" />
+                        </div>
+                        <div class="project-details wow fadeInLeft" style="opacity: .9">
+                            <h3>Senior Manager, Rapid Prototype Design Unit, Enterprise Technology Delivery, GovTechON
+                            </h3>
+                            <p>Our Mission is to offer a low-code service to empower all to rapidly prototype their own
+                                apps. Low code simplifies the development process by automating manual processes and
+                                makes it
+                                easier than ever to create flexible apps to get specific tasks done.
+                            </p>
+                            <p>Our Vision is to drive low code adoption within the OPS through an established guide
+                                community of practice. This community will foster IT agility within the enterprise,
+                                manage evolving customer
+                                digital expectations, reduce shadow IT, and increase the opportunity for innovation.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row project">
+                <div class="col-xs-12 col-md-7">
+                    <div class="single-project">
+                        <div class="project-photo">
                             <img src="images/dglogo.jpg" alt="LTC Digital Garage Logo" />
                         </div>
                         <div class="project-details wow fadeInLeft" style="opacity: .9">
@@ -1370,6 +1393,18 @@
                 console.log("Service worker has been registered for scope: " + reg.scope);
             });
         }
+
+        $('.mainmenu ul.nav.navbar-nav li a').click(function () {
+            val = "/tab/" + $(this).attr('href');
+
+            res = urchinTracker(val);
+        });
+
+//         {
+
+}
+
+
     </script>
 </body>
 
