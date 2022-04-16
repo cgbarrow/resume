@@ -14,7 +14,7 @@
 
 # Resume
 
-Hello! I'm Christopher Barrow. I am currently in the role of Manager, Product Management & Design for the Digital Garage, Ministry of Transportation, Ontario Public Service. Digital Garage's mandate is to foster the practice of innovation and exploration of technology to drive the digital service transformation agenda in Ministry of Transportation and Ministry of Labour, Training and Skills Development.
+Hello! I'm Christopher Barrow. I am currently in the role of Senior Manager, for the Rapid Prototype Design Unnit, Ministry of Government and Consumer Services, Ontario Public Service. Our Mission is to offer a low-code service to empower all to rapidly prototype their own apps. Low code simplifies the development process by automating manual processes and makes it easier than ever to create flexible apps to get specific tasks done..
 
 ## About Me
 
