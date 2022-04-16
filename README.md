@@ -14,7 +14,7 @@
 
 # Resume
 
-Hello! I'm Christopher Barrow. I am currently in the role of Senior Manager, for the Rapid Prototype Design Unnit, Ministry of Government and Consumer Services, Ontario Public Service. Our Mission is to offer a low-code service to empower all to rapidly prototype their own apps. Low code simplifies the development process by automating manual processes and makes it easier than ever to create flexible apps to get specific tasks done..
+Hello! I'm Christopher Barrow. I am currently in the role of Senior Manager, for the Rapid Prototype Design Unit, Ministry of Government and Consumer Services, Ontario Public Service. The Rapid Prototype Design Unit's Mission is to offer a low-code service to empower all to rapidly prototype their own apps. Low code simplifies the development process by automating manual processes and makes it easier than ever to create flexible apps to get specific tasks done..
 
 ## About Me
 
