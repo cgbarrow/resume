@@ -38,7 +38,9 @@ jobs:
       - name: Output Run Attempt
         run: echo ${{ github.run_attempt }}
       - name: Write Version Number
-        run: echo ${{ toJSON(github.run_number) }}
+        env:
+          version: ${{ github.run_number }}
+        run: echo ${{ toJSON(env.version) }}
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
     runs-on: ubuntu-latest
