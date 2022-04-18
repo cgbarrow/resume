@@ -40,7 +40,7 @@ jobs:
       - name: Write Version Number
         env:
           version:  format('{ "version":{0} }'),${{ github.run_number }})
-        run: echo ${{ version }}
+        run: echo ${{ env.version }}
   close_pull_request_job:
     if: github.event_name == 'pull_request' && github.event.action == 'closed'
     runs-on: ubuntu-latest
