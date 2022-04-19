@@ -65,6 +65,11 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+canvas {
+  display: block;
+  position: absolute;
+}
+
 a {
   -webkit-transition: 0.3s;
   transition: 0.3s;
